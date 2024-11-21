@@ -2,5 +2,5 @@
 
 ## Project Overview
 
-![Project Pipeline](https://github.com/najirh/Walmart_SQL_Python/blob/main/walmart_project-piplelines.png)
+![Project Pipeline](https://github.com/rohit-ashva900/walmart_Analysis/blob/main/walmart_projects.png)
 
